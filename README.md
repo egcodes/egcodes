@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋, I'm [Erdi Gürbüz](https://egcodes.blogspot.com)
 
-<!--
-**egcodes/egcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr style="border:2px solid gray"> </hr>
 
-Here are some ideas to get you started:
+Recent projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Hacker's Work](https://hackerswork.com) - a microblog for your works
+- [Aristotle](https://github.com/egcodes/aristotle) - highly customizable news collector
+
+🔭 I'm currently a Principal Software Engineer working at
+[@sahibinden](https://sahibinden.com)
+
+In my spare time, I mostly enjoy reading books and watching movies.
+
+📫 Feel free to reach out!
+
+- twitter: [@egcodes](https://twitter.com/egcodes)
+- medium: [@erdigurbuz](https://medium.com/@erdigurbuz)
+
+📕 **Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+- [An Easy Integration of Distributed Lock](https://medium.com/sahibinden-technology/an-easy-integration-of-distributed-lock-4b19a704ce49)
+<!-- BLOG-POST-LIST:END -->
+
