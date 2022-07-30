@@ -5,6 +5,7 @@
 Recent projects:
 - [Hacker's Work](https://hackerswork.com) - a microblog for your works
 - [Aristotle](https://github.com/egcodes/aristotle) - highly customizable news collector
+- [Thunder - Speed Test](https://play.google.com/store/apps/details?id=egcodes.com.speedtest) - one-tap connection testing in under 30 seconds
 
 
 🔭 I'm currently a Principal Software Engineer working at
