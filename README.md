@@ -1,16 +1,15 @@
 ### Hi there 👋, I'm [Erdi Gürbüz](https://egcodes.blogspot.com)
 
 
-Recent projects:
-- [Hacker's Work](https://hackerswork.com) - a microblog for your works
-- [Thunder - Speed Test](https://github.com/egcodes/speed-test) - one-tap connection testing in under 30 seconds
-- [Aristotle](https://github.com/egcodes/aristotle) - highly customizable news collector
-
-
 🔭 I'm currently a Principal Software Engineer working at
 [@sahibinden](https://sahibinden.com)
 
 In my spare time, I mostly enjoy reading books and watching movies.
+
+Recent projects:
+- [Hacker's Work](https://hackerswork.com) - a microblog for your works
+- [Thunder - Speed Test](https://github.com/egcodes/speed-test) - one-tap connection testing in under 30 seconds
+- [Aristotle](https://github.com/egcodes/aristotle) - highly customizable news collector
 
 
 📕 **Latest Blog Posts**
