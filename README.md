@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm [Erdi Gürbüz](https://egcodes.blogspot.com)
 
-<hr style="border:1px solid gray"> </hr>
 
 Recent projects:
 - [Hacker's Work](https://hackerswork.com) - a microblog for your works
