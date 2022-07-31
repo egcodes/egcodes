@@ -6,7 +6,7 @@
 
 In my spare time, I mostly enjoy reading books and watching movies.
 
-🌱 **Projects**
+🌱 **My Projects**
 - [Hacker's Work](https://hackerswork.com) - a microblog for your works
 - [Thunder - Speed Test](https://github.com/egcodes/speed-test) - one-tap connection testing in under 30 seconds
 - [Aristotle](https://github.com/egcodes/aristotle) - highly customizable news collector
