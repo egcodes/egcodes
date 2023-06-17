@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm [Erdi Gürbüz](https://egcodes.blogspot.com)
 
 
-🔭 I'm currently a Principal Software Engineer working at
+🔭 I'm currently a Software Engineer working at
 [@jumbo](https://www.linkedin.com/company/jumbo-supermarkten/)
 
 In my spare time, I mostly enjoy reading books and watching movies.
