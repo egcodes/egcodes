@@ -4,7 +4,7 @@
 🔭 I'm currently a Software Engineer working at
 [@jumbo](https://www.linkedin.com/company/jumbo-supermarkten/)
 
-In my spare time, I mostly enjoy reading books, taking pictures of the sky and watching movies.
+In my spare time, I mostly enjoy reading books, taking pictures of the sky, playing, making music and watching movies.
 
 🌱 **My Projects**
 - [Store Detective Service](https://github.com/egcodes/store-detective-service) - a microservice containing best practices
