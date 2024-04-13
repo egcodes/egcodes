@@ -9,7 +9,7 @@ taking pictures of the sky, making music and watching movies.
 
 🌱 **My Projects**
 - [Store Detective Service](https://github.com/egcodes/store-detective-service) - a microservice containing best practices
-- [HackerUpdates.com](https://github.com/egcodes/hsw) - a microblog for your works
+- [HackerUpdates.com](https://www.hackerupdates.com) - a microblog for your works
 - [Thunder - Speed Test](https://github.com/egcodes/speed-test) - one-tap connection testing in under 30 seconds
 - [Aristotle](https://github.com/egcodes/aristotle) - highly customizable news collector
 
