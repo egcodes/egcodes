@@ -8,8 +8,8 @@ In my spare time, I mostly enjoy reading books,
 taking pictures of the sky, making music and watching movies.
 
 🌱 **My Projects**
-- [Store Detective Service](https://github.com/egcodes/store-detective-service) - a microservice containing best practices
 - [HackerUpdates.com](https://www.hackerupdates.com) - a microblog for your works
+- [Store Detective Service](https://github.com/egcodes/store-detective-service) - a microservice containing best practices
 - [Thunder - Speed Test](https://github.com/egcodes/speed-test) - one-tap connection testing in under 30 seconds
 - [Aristotle](https://github.com/egcodes/aristotle) - highly customizable news collector
 
