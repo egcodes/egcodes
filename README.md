@@ -1,7 +1,7 @@
-### Hi there 👋, I'm [Erdi Gürbüz](https://egcodes.blogspot.com)
+### Hi there 👋
 
 
-🔭 I'm a Principle Software Engineer
+🔭 I'm a Software Engineer
 
 In my spare time, I mostly enjoy reading books, 
 taking pictures of the sky, making music and watching movies.
