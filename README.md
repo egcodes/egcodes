@@ -22,5 +22,3 @@ taking pictures of the sky, making music and watching movies.
 
 📫 **Contact**
 - twitter: [@egcodes](https://twitter.com/egcodes)
-- medium: [@erdigurbuz](https://medium.com/@erdigurbuz)
-
